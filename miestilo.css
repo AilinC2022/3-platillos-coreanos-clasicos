@@ -1,0 +1,50 @@
+
+
+body{
+    margin: 0;
+}
+
+header{
+    background: url(corea3.jpg)no-repeat;
+    background-size: cover;
+    height: 450px;
+    overflow: hidden;
+}
+
+h1{
+    color: rgba(241, 52, 112, 0.862);
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    font-size: 80px;
+    text-shadow: 4px 4px 2px white; 
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 70px;
+    text-shadow: 3px 4px 4px white; 
+    
+}
+
+h3{
+    color: rgba(167, 24, 210, 0.862);
+    text-align: center;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 45px;
+}
+
+li{
+    color: rgba(22, 63, 198);
+    text-align: middle;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 20px;
+}
+
+p{
+    color: rgb(115, 34, 34)(170, 55, 70, 0.862);
+    text-align: justify;
+    font-family: 'Schoolbell', cursive;
+    font-size: 30px;
+}
